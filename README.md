@@ -4,6 +4,6 @@ In this repo you will find all the python code files for experiments which are l
 
 <p align="center" width="100%">
 
-   <img width="100%" src="https://github.com/syedimaduddin/Communication-Lab-I/blob/main/List%20of%20all%20Experiments.jpg">
+   <img width="100%" src="List of all Experiments.jpg">
    
 </p>
